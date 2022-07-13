@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jenniferhamrita
-- 👀 I’m interested in Data Science, Business Analytics, AI and Machine Learning
-- 🌱 I’m currently learning Data Science with Python
-- 💞️ I’m looking to collaborate on Data Science with Python projects
+- 👀 I’m Data Science Beginner
+- 🌱 I’m currently learning Data Science in Simplilearn
+- 💞️ I’m looking to collaborate on Data Science with Python and R Programming projects
 - 📫 How to reach me jennifer.hamrita@gmail.com
 
 <!---
